@@ -16,4 +16,10 @@ fisher tsub/fzf_ghq
 fzf_ghq
 ```
 
+or
+
+```
+Ctrl-]
+```
+
 [fisherman]: https://github.com/fisherman/fisherman
