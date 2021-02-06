@@ -4,10 +4,10 @@ Efficient fish keybindinging for fzf with ghq
 
 ## Install
 
-With [fisherman]
+With [fisher]
 
 ```
-fisher tsub/fzf_ghq
+fisher install tsub/fzf_ghq
 ```
 
 ## Usage
@@ -22,4 +22,4 @@ or
 Ctrl-]
 ```
 
-[fisherman]: https://github.com/fisherman/fisherman
+[fisher]: https://github.com/jorgebucaran/fisher
